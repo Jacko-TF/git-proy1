@@ -10,3 +10,5 @@ viernes
 estaciones
 veranos
 primavera
+otoño
+invierno
